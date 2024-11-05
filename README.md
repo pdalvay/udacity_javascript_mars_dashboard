@@ -1,0 +1,2 @@
+# udacity_javascript_mars_dashboard
+Udacity Intermediate Javascript Mars Dashboard Project
